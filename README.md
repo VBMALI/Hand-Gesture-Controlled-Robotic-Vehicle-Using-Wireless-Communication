@@ -6,4 +6,4 @@
 Technologies Used:
   - 
   - Language: C++
-  - Simulation Platform: Arduino IDE
+  - Programming software: Arduino IDE
